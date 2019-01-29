@@ -9,6 +9,8 @@
 <body>
     <div class="container">
     		<div class="row">
+                    <h1>Tyrell Wheeler</h1>
+                    <h2>CIS 355</h2>
                         <a href="https://github.com/tdwheele/phpProject01.git">GitHub</a>
 
     			<h3>PHP CRUD Grid</h3>
